@@ -10,4 +10,4 @@ Diagrama | Ventajas | Desventajas
 
 ***
 
-*__Pseudocodigo__* | Es una manera rapida de escribir codigo, en caso de que no halla tiempo para graficar el programa. | Cada uno entiende su propio pseudocodigo, lo cual puede afectar el funcionamiento a la interpretacion de otra persona.
+*__Pseudocodigo__* || Es una manera rapida de escribir codigo, en caso de que no halla tiempo para graficar el programa. Pero cada uno entiende su propio pseudocodigo, lo cual puede afectar el funcionamiento a la interpretacion de otra persona.
