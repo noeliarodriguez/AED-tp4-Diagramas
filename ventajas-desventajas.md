@@ -1,4 +1,4 @@
-# Ventajas y desventajas de los diagramas de flujo:
+# Ventajas y desventajas de los diagramas:
 
 ***
 
